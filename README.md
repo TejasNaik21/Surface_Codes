@@ -1,2 +1,2 @@
 # Surface_Codes
-BTech Project
+BTech Thesis Project done under supervision of Prof. Sugata Gangopadhyay.
